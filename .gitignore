@@ -1,0 +1,12 @@
+# Database Files
+db/
+
+# PyCharm Files
+processor/.idea/
+*.pyc
+
+# Python Methods (privacy)
+*.py
+
+# Windows ID info
+/*.txt

@@ -1,0 +1,10 @@
+# method dependencies
+
+# ubuntu 14.04
+# python 3.4
+# pip install python-dateutil
+# pip install pytz
+# pip install tzlocal
+# pip install mandrill
+# pip install twilio
+# pip install cassandra-driver
